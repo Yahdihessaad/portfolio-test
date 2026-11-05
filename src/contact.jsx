@@ -6,7 +6,7 @@ export default function Contact() {
             <h2>Contact Me</h2>
 
             <div className="card p-4 mt-3">
-                <p>yahdihessaad0@gmail.com</p>
+                <p>Emsil : yahdihessaad0@gmail.com</p>
                 <p>GitHub: github.com/Yahdihessaad</p>
 
                 <div>
